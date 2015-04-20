@@ -6,7 +6,7 @@ This project repository contains files for the project course "Getting and Clean
 Project goal
 =====================================
 The goal of this projet is to create a tidy data set. It must be done with a R script in five steps : 
-* Merges the training and the test sets to create one data set.
+* Merge the training and the test sets to create one data set.
 * Extracts only the measurements on the mean and standard deviation for each measurement. 
 * Uses descriptive activity names to name the activities in the data set.
 * Appropriately labels the data set with descriptive variable names. 
@@ -19,9 +19,9 @@ The source file used for this projet can be find [here](https://d396qusza40orc.c
 Files description
 =====================================
 This repository contains three files :
-'CodeBook.md' : This file describes all data, varialbes and library used to perform the cleaning and trasnformation of data.
-'run_analysis.R' : This is an R executable programm used to fo the cleaning ans transformation.
-'data_mean_by_activity_and_subject.txt' : this file contains the result data.
+* 'CodeBook.md' : This file describes all data, varialbes and library used to perform the cleaning and trasnformation of data.
+* 'run_analysis.R' : This is an R executable programm used to fo the cleaning ans transformation.
+* 'data_mean_by_activity_and_subject.txt' : this file contains the result data.
 
 How to use
 =====================================
