@@ -19,13 +19,13 @@ The source file used for this projet can be find [here](https://d396qusza40orc.c
 Files description
 =====================================
 This repository contains three files :
-* 'CodeBook.md' : This file describes all data, varialbes and library used to perform the cleaning and trasnformation of data.
-* 'run_analysis.R' : This is an R executable programm used to fo the cleaning ans transformation.
-* 'data_mean_by_activity_and_subject.txt' : this file contains the result data.
+* `CodeBook.md` : This file describes all data, varialbes and library used to perform the cleaning and trasnformation of data.
+* `run_analysis.R` : This is an R executable programm used to fo the cleaning ans transformation.
+* `data_mean_by_activity_and_subject.txt` : this file contains the result data.
 
 How to use
 =====================================
-You should use the 'run_analysis.R' script with datas from the [source file](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) :
+You should use the `run_analysis.R` script with datas from the [source file](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) :
 * Unzip the datas from the source file into a repository on your computer.
 * Open R and set the working directory to the same repository as above.
-* Launch the progam 'run_analysis.R'. This will create the file "data_mean_by_activity_and_subject.txt" into the repository.
+* Launch the progam `run_analysis.R`. This will create the file "data_mean_by_activity_and_subject.txt" into the repository.
