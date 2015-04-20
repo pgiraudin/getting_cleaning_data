@@ -1,6 +1,6 @@
 library(dplyr);
 
-#dataMeanAndSDActivitys are downloaded and unzippped in repository "/dataMeanAndSDActivityscience/03_get_and_clean/p3"
+#source files are downloaded and unzippped in repository "/dataMeanAndSDActivityscience/03_get_and_clean/p3"
 
 wd<-"~/dataMeanAndSDActivityscience/03_get_and_clean/p3";
 setwd(paste(wd, "/UCI HAR dataMeanAndSDActivityset", sep=""));
