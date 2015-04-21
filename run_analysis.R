@@ -1,10 +1,5 @@
 library(dplyr);
 
-#source files are downloaded and unzippped in repository "/datascience/03_get_and_clean/p3"
-
-wd<-"~/datascience/03_get_and_clean/p3";
-setwd(paste(wd, "/UCI HAR dataMeanAndSDActivityset", sep=""));
-
 # 1) Merges the training and the test sets to create one dataset.
 ########################################################################
 
