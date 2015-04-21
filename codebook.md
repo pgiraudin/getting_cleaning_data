@@ -3,7 +3,7 @@
 
 This file describes the variables, the data, and transformations applied with to the source data into the script `run_analysis.R`.
 
-This script use the [`dplyr` package](http://cran.r-project.org/web/packages/dplyr/index.html) 
+This script use the `dplyr` [package](http://cran.r-project.org/web/packages/dplyr/index.html) 
 
 The scipt file `run_analysis.R` apply the five steps described into the course projet. The script is commented for each step.
 
@@ -19,7 +19,7 @@ The scipt file `run_analysis.R` apply the five steps described into the course p
 * "features.txt" and "activity_labels.txt" are sources files that contains label datas.
 
 
-# Variables description and trasnformations
+# Variables description and transformations
 
 * `dataMeanAndSDActivityX`, `dataMeanAndSDActivityY` and `dataMeanAndSDActivitySubject` datasets contains the test and train merged datas from the files.
 * `dataMeanAndSDActivityTest` contains one dataset with all data above (merged).
