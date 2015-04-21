@@ -19,9 +19,9 @@ The source file used for this projet can be find [here](https://d396qusza40orc.c
 Files description
 =====================================
 This repository contains three files other files :
-* [`CodeBook.md`](CodeBook.md) : This file describes all data, varialbes and library used to perform the cleaning and trasnformation of data.
-* `run_analysis.R` : This is an R executable programm used to fo the cleaning ans transformation.
-* `data_mean_by_activity_and_subject.txt` : this file contains the result data.
+* [`codebook.md`](CodeBook.md) : This file describes all data, varialbes and library used to perform the cleaning and trasnformation of data.
+* [`run_analysis.R`](run_analysis.R) : This is an R executable programm used to fo the cleaning ans transformation.
+* [`data_mean_by_activity_and_subject.txt`](run_analysis.R) : this file contains the result data.
 
 How to use
 =====================================
